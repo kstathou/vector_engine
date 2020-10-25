@@ -1,0 +1,7 @@
+torch==1.6.0
+transformers==3.3.1
+s3fs==0.5.1
+pandas==0.25.3
+faiss-cpu==1.6.1
+numpy==1.18.1
+-e .
