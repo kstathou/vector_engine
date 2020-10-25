@@ -23,7 +23,7 @@ common_kwargs = dict(
 )
 
 setup(
-    name="vector_engine",
-    packages=find_namespace_packages(where="vector_engine.*"),
+    name="vector-engine",
+    packages=find_namespace_packages(where="src.*"),
     **common_kwargs
 )
