@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def vector_search(query, model, index, num_results=10):
     """Tranforms query to vector using a pretrained, sentence-level 
     DistilBERT model and finds similar vectors using FAISS.
