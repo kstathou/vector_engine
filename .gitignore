@@ -135,7 +135,6 @@ dmypy.json
 *#
 *bin
 *npy
-*pickle
 
 # OSX
 .DS_Store
