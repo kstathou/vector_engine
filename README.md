@@ -5,7 +5,7 @@ This repository contains the code for the following Medium blogs:
 
 Check out the blogs if you want to learn how to create a semantic search engine with Sentence Transformers and Faiss.  
 
-You can [run the notebook on Google Colab](https://colab.research.google.com/github/kstathou/vector_engine/blob/master/notebooks/001_vector_search.ipynb) and leverage the free GPU to speed up the computation!
+You can [run the notebook on Google Colab](https://colab.research.google.com/drive/11WBCrwNzbNWN7QbMEwzy-8MZROOVQFnZ?usp=sharing) and leverage the free GPU to speed up the computation!
 
 ## How to deploy the Streamlit app locally with Docker ##
 Assuming docker is running on your machine and you have a docker account, do the following:
