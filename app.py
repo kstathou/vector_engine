@@ -7,9 +7,9 @@ from vector_engine.utils import vector_search
 
 
 @st.cache
-def read_data(s3_data="s3://vector-search-blog/misinformation_papers.csv"):
-    """Read the data from S3."""
-    return pd.read_csv(s3_data)
+def read_data(data="data/misinformation_papers.csv"):
+    """Read the data from local."""
+    return pd.read_csv(data)
 
 
 @st.cache(allow_output_mutation=True)
