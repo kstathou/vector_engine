@@ -1,9 +1,13 @@
-torch==1.6.0
+torch==1.8.1
 transformers==3.3.1
 sentence-transformers==0.3.8
-s3fs==0.5.1
+s3fs==0.6.0
 pandas==1.1.2
 faiss-cpu==1.6.1
-numpy==1.18.5
+numpy==1.19.2
+folium==0.2.1
 streamlit==0.62.0
+urllib3==1.25.4
+botocore==1.19.52
+ipykernel==4.10.0
 -e .
